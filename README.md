@@ -38,4 +38,3 @@ npx prisma db push
 ### Start the app
 npm run dev
 
-# AirBnb
