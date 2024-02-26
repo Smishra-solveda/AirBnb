@@ -1,6 +1,16 @@
 # AirBnb
 
+# HomePage
+![Screenshot (618)](https://github.com/Smishra-solveda/AirBnb/assets/133752093/7261473e-4e6c-4ed7-8119-26b514de7499)
+![Screenshot (619)](https://github.com/Smishra-solveda/AirBnb/assets/133752093/dfcb9917-bb69-493e-ab50-ccff60c70be8)
+![Screenshot (620)](https://github.com/Smishra-solveda/AirBnb/assets/133752093/c9409386-7d05-4dc8-b72d-be926381d212)
+
+#Property page
+![Screenshot (621)](https://github.com/Smishra-solveda/AirBnb/assets/133752093/405b4026-4f8c-43bd-b051-64c86aefec09)
+
 Features:
+![Screenshot (622)](https://github.com/Smishra-solveda/AirBnb/assets/133752093/fce3266e-7c90-4dc6-8c1d-c6329b837133)
+
 
 - Tailwind design
 - Tailwind animations and effects
